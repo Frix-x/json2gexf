@@ -1,0 +1,12 @@
+{
+  "name": "json2gexf",
+  "version": "0.0.1",
+  "description": "JSON parser to GEXF optimised for JSON obtained with \"Lost Circles\" chrome extension",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node convert.js"
+  },
+  "dependencies": {
+  }
+}
